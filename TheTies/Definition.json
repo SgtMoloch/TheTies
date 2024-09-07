@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "Moloch.TheTies",
+  "name": "The Ties",
+  "version": "1.0.0",
+  "assemblies": [ "TheTies" ]
+}
